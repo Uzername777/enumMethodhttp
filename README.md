@@ -1,4 +1,4 @@
-# enumMethodhttp
+# enumMethodhttp 
 Get method of the web server or web page
 [PT-lang]
 Este é um script em python simples, que realiza uma verificação dos métodos permitidos no servidor web.
@@ -15,9 +15,10 @@ $ pip install -r requirements.txt
 
 $ chmod +x enumMethod.py
 
-$  ./enumMethod.py
+$  ./enumMethod.py -h
 
------ Creditos ----------
+----- Créditos ----------
+
 by: Mr.0x00
 
 # enumMethodhttp
@@ -37,9 +38,10 @@ $ pip install -r requirements.txt
 
 $ chmod +x enumMethod.py
 
-$ ./enumMethod.py
+$ ./enumMethod.py -h
 
 ----- Credits ----------
+
 by: Mr.0x00
 
 
