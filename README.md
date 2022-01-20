@@ -19,6 +19,10 @@ $ chmod +x enumMethod.py
 
 $  ./enumMethod.py -h
 
+--- Exemplo ------
+
+$ ./enumMethod -u https://www.google.com/
+
 ----- Créditos ----------
 
 by: Mr.0x00
