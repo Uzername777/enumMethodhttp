@@ -8,8 +8,38 @@ Também pode ser testado para uma path da url de um servidor web.
 clone o repositório
 
 $ cd emh
+
+$ sudo apt install python3 -y
+
 $ pip install -r requirements.txt
-$ sudo apt install python3 -y 
+
+$ chmod +x enumMethod.py
+
 $  ./enumMethod.py
+
 ----- Creditos ----------
 by: Mr.0x00
+
+# enumMethodhttp
+Get method of the web server or web page
+[EN-lang]
+This is a simple python script that checks the allowed methods on the web server.
+It can also be tested for a web server url path.
+
+-----Installation -----
+clone the repository
+
+$ cd emh
+
+$ sudo apt install python3 -y
+
+$ pip install -r requirements.txt
+
+$ chmod +x enumMethod.py
+
+$ ./enumMethod.py
+
+----- Credits ----------
+by: Mr.0x00
+
+
