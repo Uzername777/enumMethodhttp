@@ -1,6 +1,8 @@
 # enumMethodhttp 
 Get method of the web server or web page
+
 [PT-lang]
+
 Este é um script em python simples, que realiza uma verificação dos métodos permitidos no servidor web.
 Também pode ser testado para uma path da url de um servidor web.
 
@@ -23,7 +25,9 @@ by: Mr.0x00
 
 # enumMethodhttp
 Get method of the web server or web page
+
 [EN-lang]
+
 This is a simple python script that checks the allowed methods on the web server.
 It can also be tested for a web server url path.
 
