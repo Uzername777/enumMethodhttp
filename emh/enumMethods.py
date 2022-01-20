@@ -3,7 +3,7 @@
 from requests import request
 import argparse
 
-desc = '--- Enumerador de Metodos HTTP/HTTPS ---'
+desc = '--- Enumerador de Métodos HTTP/HTTPS ---'
 
 parser = argparse.ArgumentParser(description=desc)
 parser.add_argument ('-u', '--url', metavar='alvo', required=True, help='URL do site')
